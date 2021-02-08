@@ -4,7 +4,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Leon's workspace."
 languageCode = "zh-cn"
-baseURL = "http://leontung.com/"
+baseURL = "blog.leontung.com"
 copyright = "© 2021"
 
 # Add your Disqus shortname here.
